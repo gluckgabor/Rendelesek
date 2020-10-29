@@ -1,0 +1,9 @@
+Név;Kat;Ár;DB
+húsleves;ebéd;760;1
+gyümölcsleves;ebéd;700;2
+rántotta;reggeli;850;1
+rántott hús;ebéd;1450;3
+sajt tál;vacsora;2300;2
+pörkölt;ebéd;1700;1
+krumpli;köret;500;4
+kenyér;köret;100;1
